@@ -41,5 +41,7 @@ Descrever como instalar e preparar dependência de desenvolvimento para que o me
 # Meta
 
 Meu nome - [@minharedesocial](https://minharedesocial.com) - meu email
+
 Distribuído sobre licença. Veja mais informações em `Licença`.
+
 [https://github.com/meuusuario/meuprojeto](https://github.com/meuusuario)
